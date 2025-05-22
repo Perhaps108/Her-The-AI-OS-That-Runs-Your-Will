@@ -46,7 +46,7 @@ Her 已完成从用户输入 → 权限获取 → 函数生成 → 返回不同�
 
 所有逻辑、实现、结构设计均由我一人独立完成。项目仍在持续迭代中。
 
-项目实现视频请前往https://github.com/Perhaps108/Her-The-AI-OS-That-Runs-Your-Will/tree/main/docs/demos查看
+项目功能的部分实现视频请前往https://github.com/Perhaps108/Her-The-AI-OS-That-Runs-Your-Will/tree/main/docs/demos
 注：查询天气功能由于我使用虚拟机测试，无法获取真实位置信息，在真机测试即可。
 
 ---
